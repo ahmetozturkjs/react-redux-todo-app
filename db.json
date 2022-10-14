@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "firstRecord",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": 1665765903587,
+      "username": "asd",
+      "password": "123",
+      "role": "user"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "text": "firstodotext 1",
+      "isDone": false,
+      "userID": 2
+    },
+    {
+      "id": 3,
+      "text": "thirdodotext 3",
+      "isDone": false,
+      "userID": 2
+    },
+    {
+      "id": 2,
+      "text": "secondtodotext 2",
+      "isDone": false,
+      "userID": 1
+    }
+  ]
+}
